@@ -1,0 +1,10 @@
+.inline-title{
+    text-align: center;
+}
+.inline-text{
+    display: flex;
+}
+.inline-date{
+    color: blue;
+
+}
